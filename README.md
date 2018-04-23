@@ -10,3 +10,5 @@ People. And their thoughts.
 # I think
 * Courage and Harmony.
 * Respect ourselves as much as we respect others.
+* Everything compounds. Remember, it's everything.
+* Foundations and fundamentals. The basics are not basic.
