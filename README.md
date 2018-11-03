@@ -4,8 +4,12 @@ People. And their thoughts.
 * Earl Nightingale
 * Richard Hamming
 * Alan Watts
-* Jordan Petersen
+* Jordan Peterson
 * Steve Chandler Books
+* Brian Tracy
+* Bob Proctor
+* Jim Rohn
+* Les Brown
 
 # I think
 * Courage and Harmony.
