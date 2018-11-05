@@ -1,5 +1,5 @@
 # for-your-mind
-People. And their thoughts.
+## People. And their thoughts.
 
 * Earl Nightingale
 * Richard Hamming
@@ -10,6 +10,9 @@ People. And their thoughts.
 * Bob Proctor
 * Jim Rohn
 * Les Brown
+
+### Youngsters
+* Michael Matthews https://www.muscleforlife.com/about-me/
 
 # I think
 * Courage and Harmony.
