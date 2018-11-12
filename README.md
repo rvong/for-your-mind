@@ -10,6 +10,7 @@
 * Bob Proctor
 * Jim Rohn
 * Les Brown
+* Shiv Khera
 
 ### Youngsters
 * Michael Matthews https://www.muscleforlife.com/about-me/
