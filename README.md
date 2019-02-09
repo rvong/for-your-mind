@@ -14,9 +14,10 @@
 
 ### Youngsters
 * Michael Matthews https://www.muscleforlife.com/about-me/
+* Andrew Ferebee
 
 # I think
 * Courage and Harmony.
 * Respect ourselves as much as we respect others.
-* Everything compounds. Remember, it's everything.
+* Everything compounds.
 * Foundations and fundamentals. The basics are not basic.
